@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "471da343d89bf13e510bb3f3ae92b748cc9c35e4",
     "author": "FernandoGarcia19",
     "commit": {
       "date": "2026-05-28T03:30:33.000Z",
       "message": "Prueba 4: Suma de varios numeros separados por comas",
-      "url": "https://github.com/FernandoGarcia19/CalculadoraCadenasTDDLab/commit/HEAD"
+      "url": "https://github.com/FernandoGarcia19/CalculadoraCadenasTDDLab/commit/471da343d89bf13e510bb3f3ae92b748cc9c35e4"
     },
     "stats": {
       "total": 4,
@@ -72,6 +72,25 @@
     },
     "coverage": 83.33,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "FernandoGarcia19",
+    "commit": {
+      "date": "2026-05-28T03:32:29.000Z",
+      "message": "Preuba 5: Suma de numeros usando guion como separador",
+      "url": "https://github.com/FernandoGarcia19/CalculadoraCadenasTDDLab/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 5,
+      "deletions": 1,
+      "date": "2026-05-28"
+    },
+    "coverage": 83.33,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }
