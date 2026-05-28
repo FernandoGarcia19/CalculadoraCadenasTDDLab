@@ -8,4 +8,8 @@ describe("Calculadora de Strings", () => {
     it("devuelve el numero mismo cuando solo hay 1 input", () => {
         expect(calculate("2")).toEqual("2");
     })
+
+    it("devuelve la suma de 2 numeros separados por comas", () => {
+        expect(calculate("1,2")).toEqual("3");
+    })
 });

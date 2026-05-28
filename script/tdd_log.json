@@ -38,9 +38,31 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "efef94f293cae583760908988b1b7cea9c5a21bc",
     "commitName": "Prueba 2: Input singular",
     "commitTimestamp": 1779938683476,
     "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1779938845482,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1779938898220,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Prueba 3: Suma de 2 separados por comas",
+    "commitTimestamp": 1779938924422,
+    "testId": 2
   }
 ]

@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "efef94f293cae583760908988b1b7cea9c5a21bc",
     "author": "FernandoGarcia19",
     "commit": {
       "date": "2026-05-28T03:24:43.000Z",
       "message": "Prueba 2: Input singular",
-      "url": "https://github.com/FernandoGarcia19/CalculadoraCadenasTDDLab/commit/HEAD"
+      "url": "https://github.com/FernandoGarcia19/CalculadoraCadenasTDDLab/commit/efef94f293cae583760908988b1b7cea9c5a21bc"
     },
     "stats": {
       "total": 18,
@@ -34,6 +34,25 @@
     },
     "coverage": 66.67,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "FernandoGarcia19",
+    "commit": {
+      "date": "2026-05-28T03:28:44.000Z",
+      "message": "Prueba 3: Suma de 2 separados por comas",
+      "url": "https://github.com/FernandoGarcia19/CalculadoraCadenasTDDLab/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 7,
+      "deletions": 1,
+      "date": "2026-05-28"
+    },
+    "coverage": 83.33,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }
