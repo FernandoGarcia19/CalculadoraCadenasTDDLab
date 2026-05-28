@@ -12,4 +12,8 @@ describe("Calculadora de Strings", () => {
     it("devuelve la suma de 2 numeros separados por comas", () => {
         expect(calculate("1,2")).toEqual("3");
     })
+
+    it("devuelve la suma de varios numeros separados por comas", () => {
+        expect(calculate("1,2,3")).toEqual("6");
+    })
 });
