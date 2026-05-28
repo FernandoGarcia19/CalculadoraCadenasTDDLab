@@ -95,12 +95,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "716d1317a4b000943b558173de3b286f49da9df7",
     "author": "FernandoGarcia19",
     "commit": {
       "date": "2026-05-28T03:34:56.000Z",
       "message": "Prueba 6: Suma de numeros con delimitador especificado",
-      "url": "https://github.com/FernandoGarcia19/CalculadoraCadenasTDDLab/commit/HEAD"
+      "url": "https://github.com/FernandoGarcia19/CalculadoraCadenasTDDLab/commit/716d1317a4b000943b558173de3b286f49da9df7"
     },
     "stats": {
       "total": 21,
@@ -110,6 +110,25 @@
     },
     "coverage": 92.86,
     "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "FernandoGarcia19",
+    "commit": {
+      "date": "2026-05-28T03:35:40.000Z",
+      "message": "Prueba 7: Inputs mayores a 1000 son ignorados",
+      "url": "https://github.com/FernandoGarcia19/CalculadoraCadenasTDDLab/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 8,
+      "deletions": 1,
+      "date": "2026-05-28"
+    },
+    "coverage": 93.33,
+    "test_count": 8,
     "failed_tests": 0,
     "conclusion": "success"
   }

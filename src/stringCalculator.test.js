@@ -28,4 +28,8 @@ describe("Calculadora de Strings", () => {
     it("devuelve la suma con delimitador personalizado y separadores por defecto", () => {
         expect(calculate("//[;] 6,3-2;1")).toEqual("12");
     })
+
+    it("ignora numeros mayores a 1000", () => {
+        expect(calculate("2,1001")).toEqual("2");
+    })
 });

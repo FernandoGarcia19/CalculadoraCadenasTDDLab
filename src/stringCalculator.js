@@ -14,7 +14,10 @@ function calculate(input) {
             sequence = input.slice(endIndex + 1).trim();
         }
 
-        const numeros = sequence.split(delimiterPattern).map(Number);
+        const numeros = sequence
+            .split(delimiterPattern)
+            .map(Number)
+            .filter((num) => num <= 1000);
         const result = numeros.reduce((sum, num) => sum + num, 0);
         return result.toString(); 
     }

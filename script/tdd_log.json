@@ -110,9 +110,23 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "716d1317a4b000943b558173de3b286f49da9df7",
     "commitName": "Prueba 6: Suma de numeros con delimitador especificado",
     "commitTimestamp": 1779939296513,
     "testId": 5
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1779939322154,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Prueba 7: Inputs mayores a 1000 son ignorados",
+    "commitTimestamp": 1779939340586,
+    "testId": 6
   }
 ]
