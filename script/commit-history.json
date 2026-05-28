@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "FernandoGarcia19",
+    "commit": {
+      "date": "2026-05-28T03:20:49.000Z",
+      "message": "Prueba 1: Cadena vacia retorna 0",
+      "url": "https://github.com/FernandoGarcia19/CalculadoraCadenasTDDLab/commit/HEAD"
+    },
+    "stats": {
+      "total": 38,
+      "additions": 19,
+      "deletions": 19,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
