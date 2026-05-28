@@ -20,4 +20,12 @@ describe("Calculadora de Strings", () => {
     it("devuelve la suma cuando usa guion como separador", () => {
         expect(calculate("1-2,3")).toEqual("6");
     })
+
+    it("devuelve la suma cuando usa delimitador personalizado", () => {
+        expect(calculate("//[;] 6;7;4")).toEqual("17");
+    })
+
+    it("devuelve la suma con delimitador personalizado y separadores por defecto", () => {
+        expect(calculate("//[;] 6,3-2;1")).toEqual("12");
+    })
 });

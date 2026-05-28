@@ -88,9 +88,31 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "a8cd89c24e4c2ca25966d409ca2fc1e16817e577",
     "commitName": "Preuba 5: Suma de numeros usando guion como separador",
     "commitTimestamp": 1779939149869,
     "testId": 4
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 2,
+    "numTotalTests": 7,
+    "timestamp": 1779939240660,
+    "success": false,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1779939276229,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Prueba 6: Suma de numeros con delimitador especificado",
+    "commitTimestamp": 1779939296513,
+    "testId": 5
   }
 ]

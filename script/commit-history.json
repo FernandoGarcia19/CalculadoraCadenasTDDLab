@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "a8cd89c24e4c2ca25966d409ca2fc1e16817e577",
     "author": "FernandoGarcia19",
     "commit": {
       "date": "2026-05-28T03:32:29.000Z",
       "message": "Preuba 5: Suma de numeros usando guion como separador",
-      "url": "https://github.com/FernandoGarcia19/CalculadoraCadenasTDDLab/commit/HEAD"
+      "url": "https://github.com/FernandoGarcia19/CalculadoraCadenasTDDLab/commit/a8cd89c24e4c2ca25966d409ca2fc1e16817e577"
     },
     "stats": {
       "total": 6,
@@ -91,6 +91,25 @@
     },
     "coverage": 83.33,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "FernandoGarcia19",
+    "commit": {
+      "date": "2026-05-28T03:34:56.000Z",
+      "message": "Prueba 6: Suma de numeros con delimitador especificado",
+      "url": "https://github.com/FernandoGarcia19/CalculadoraCadenasTDDLab/commit/HEAD"
+    },
+    "stats": {
+      "total": 21,
+      "additions": 20,
+      "deletions": 1,
+      "date": "2026-05-28"
+    },
+    "coverage": 92.86,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }
