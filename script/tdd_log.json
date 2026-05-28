@@ -16,9 +16,31 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "5f27417ac8c4e78435935bb368902dee0130741f",
     "commitName": "Prueba 1: Cadena vacia retorna 0",
     "commitTimestamp": 1779938449301,
     "testId": 0
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1779938625633,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1779938646231,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Prueba 2: Input singular",
+    "commitTimestamp": 1779938683476,
+    "testId": 1
   }
 ]

@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "5f27417ac8c4e78435935bb368902dee0130741f",
     "author": "FernandoGarcia19",
     "commit": {
       "date": "2026-05-28T03:20:49.000Z",
       "message": "Prueba 1: Cadena vacia retorna 0",
-      "url": "https://github.com/FernandoGarcia19/CalculadoraCadenasTDDLab/commit/HEAD"
+      "url": "https://github.com/FernandoGarcia19/CalculadoraCadenasTDDLab/commit/5f27417ac8c4e78435935bb368902dee0130741f"
     },
     "stats": {
       "total": 38,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "FernandoGarcia19",
+    "commit": {
+      "date": "2026-05-28T03:24:43.000Z",
+      "message": "Prueba 2: Input singular",
+      "url": "https://github.com/FernandoGarcia19/CalculadoraCadenasTDDLab/commit/HEAD"
+    },
+    "stats": {
+      "total": 18,
+      "additions": 11,
+      "deletions": 7,
+      "date": "2026-05-28"
+    },
+    "coverage": 66.67,
+    "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
   }
